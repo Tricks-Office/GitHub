@@ -1,1 +1,3 @@
 Git Hub Test
+
+Partner A가 정보를 추가합니다.
